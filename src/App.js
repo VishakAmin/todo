@@ -56,6 +56,7 @@ function App() {
       </div>
       <div className="inputControl">
         <input
+
           type="text"
           placeholder="Add Task"
           value={value}
